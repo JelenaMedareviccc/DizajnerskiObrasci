@@ -10,5 +10,5 @@ public class DrawingApp {
 		drawingFrm.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		drawingFrm.setVisible(true);
 	}
-
+	// 123
 }
